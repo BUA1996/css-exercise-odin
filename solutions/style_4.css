@@ -32,7 +32,9 @@ img {
 }
 
 .title {
-	margin-bottom: 32px;
+	margin-bottom: 18px;
+	display: flex;
+	align-items: center;
 }
 
 .content {
