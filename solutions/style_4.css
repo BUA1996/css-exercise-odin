@@ -8,6 +8,8 @@ img {
 }
 
 .title {
+  display: flex;
+  align-items: flex-center;
   font-size: 36px;
   font-weight: 900;
   padding: 32px;
