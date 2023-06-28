@@ -34,3 +34,8 @@ img {
 html, body {
 	box-sizing: border-box;
 	height: 100%;
+}
+.title {
+	align-self: center;
+	padding: 32px;
+}
