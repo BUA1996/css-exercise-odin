@@ -27,15 +27,14 @@ img {
 
 .info {
 	display: flex;
-	height: 100%;
-	align-items: center;
-	padding: 52px;
+	justify-content: center;
+	gap: 52px;
 }
-html, body {
-	box-sizing: border-box;
-	height: 100%;
-}
+
 .title {
-	align-self: center;
-	padding: 32px;
+	margin-bottom: 32px;
+}
+
+.content {
+	max-width: 200px;
 }
