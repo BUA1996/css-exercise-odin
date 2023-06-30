@@ -76,3 +76,10 @@ button.cancel {
 .close-button {
 	margin-left: auto;
 }
+.icon {
+	margin-left: 8px;
+}
+.header {
+	margin-left: 8px;
+	margin-top: 5px;
+}
