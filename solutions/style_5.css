@@ -101,6 +101,7 @@ button.cancel {
 .last {
 	display: flex;
 	gap: 8px;
+	align-items: center;
 }
 
 .continue {
