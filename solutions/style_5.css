@@ -70,5 +70,9 @@ button.cancel {
 
 .first {
 	display: flex;
-	align-items: center;
+	justify-content: space-between;
+}
+
+.close-button {
+	margin-left: auto;
 }
