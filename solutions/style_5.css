@@ -97,3 +97,8 @@ button.cancel {
 	margin-right: 30px;
 	margin-bottom: 10px;
 }
+
+.last {
+	display: flex;
+	gap: 8px;
+}
