@@ -99,12 +99,7 @@ button.cancel {
 }
 
 .last {
-	display: flex;
 	gap: 8px;
-	align-items: center;
+	justify-content: space-between;
 }
 
-.continue {
-	margin-left: 57px;
-	margin-bottom: 10px;
-}
