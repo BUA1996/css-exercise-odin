@@ -102,3 +102,8 @@ button.cancel {
 	display: flex;
 	gap: 8px;
 }
+
+.continue {
+	margin-left: 57px;
+	margin-bottom: 10px;
+}
