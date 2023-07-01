@@ -28,12 +28,19 @@ input {
 
 ul {
 	list-style-type: none;
-	padding: 0;
-	margin: 0;
 	display: flex;
+	gap: 10px;
+
 
 }
 
 a {
 	text-decoration: none;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px;
 }
